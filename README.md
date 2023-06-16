@@ -1,5 +1,5 @@
 # cti110
-CTI110 Repository
-Created for P1LAB1
-Lopez
-6/16/23
+print('CTI110 Repository')
+print('Created for P1LAB1')
+print('Lopez')
+print('6/16/23')
